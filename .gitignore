@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ak_stroke_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (if large)
+data/
+
+# OS
+.DS_Store
+
